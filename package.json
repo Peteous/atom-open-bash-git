@@ -1,0 +1,18 @@
+{
+  "name": "open-bash-terminal",
+  "version": "2.3.2",
+  "description": "Open the Terminal (OSX, Linux) or PowerShell (Windows) in the given directory via context menu or keyboard shortcut.",
+  "activationCommands": {
+    ".tree-view .selected, atom-text-editor, atom-workspace": [
+      "open-shell-active-directory:open"
+    ],
+    "atom-workspace": [
+      "open-shell-active-directory:open-root"
+    ]
+  },
+  "repository": "https://github.com/Peteous/atom-open-terminal-here",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}

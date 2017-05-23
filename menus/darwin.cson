@@ -1,0 +1,7 @@
+'context-menu':
+  '.platform-darwin .tree-view, .platform-darwin atom-text-editor': [
+    {
+      label: 'Open Shell Here',
+      command: 'open-shell-active-directory:open'
+    }
+  ]

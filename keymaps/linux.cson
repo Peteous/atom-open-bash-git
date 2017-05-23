@@ -1,0 +1,3 @@
+'.platform-linux atom-workspace':
+  'ctrl-alt-t': 'open-shell-active-directory:open'
+  'ctrl-alt-shift-t': 'open-shell-active-directory:open-root'
