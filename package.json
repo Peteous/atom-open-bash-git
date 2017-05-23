@@ -1,6 +1,6 @@
 {
   "name": "open-bash-git",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Open the Terminal (OSX, Linux) or Git-Bash (Windows) in the given directory via context menu or keyboard shortcut.",
   "activationCommands": {
     ".tree-view .selected, atom-text-editor, atom-workspace": [
