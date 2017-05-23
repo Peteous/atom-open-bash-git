@@ -1,6 +1,6 @@
 # Open Terminal Here
 
-Open the Terminal (Mac OS X, Linux) or Bash on Ubuntu shell (Windows)
+Open the Terminal (Mac OS X, Linux) or Git-Bash terminal (Windows)
 in the given directory via context menu or keyboard shortcut.
 
 ![Screenshot of the "Open Terminal Here" menu item displayed][1]

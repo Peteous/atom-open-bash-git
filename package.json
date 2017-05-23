@@ -1,7 +1,7 @@
 {
-  "name": "open-bash-terminal",
+  "name": "open-bash-git",
   "version": "2.3.2",
-  "description": "Open the Terminal (OSX, Linux) or PowerShell (Windows) in the given directory via context menu or keyboard shortcut.",
+  "description": "Open the Terminal (OSX, Linux) or Git-Bash (Windows) in the given directory via context menu or keyboard shortcut.",
   "activationCommands": {
     ".tree-view .selected, atom-text-editor, atom-workspace": [
       "open-shell-active-directory:open"
@@ -10,7 +10,7 @@
       "open-shell-active-directory:open-root"
     ]
   },
-  "repository": "https://github.com/Peteous/atom-open-terminal-here",
+  "repository": "https://github.com/Peteous/atom-open-bash-git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
