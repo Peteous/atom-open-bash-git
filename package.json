@@ -4,10 +4,10 @@
   "description": "Open the Terminal (OSX, Linux) or Git-Bash (Windows) in the given directory via context menu or keyboard shortcut.",
   "activationCommands": {
     ".tree-view .selected, atom-text-editor, atom-workspace": [
-      "open-shell-active-directory:open"
+      "open-bash-git:open"
     ],
     "atom-workspace": [
-      "open-shell-active-directory:open-root"
+      "open-bash-git:open-root"
     ]
   },
   "repository": "https://github.com/Peteous/atom-open-bash-git",
